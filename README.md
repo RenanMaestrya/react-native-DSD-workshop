@@ -23,3 +23,4 @@ This project is a learning exercise designed to showcase basic skills in React N
 - Expo CLI installed. If not installed, you can install it using:
   ```sh
   npm install -g expo-cli
+  ```
